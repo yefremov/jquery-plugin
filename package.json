@@ -1,0 +1,33 @@
+{
+    "name": "jquery-plugin",
+    "title": "jQuery Plugin Template",
+    "description": "Template for jQuery plugins",
+    "version": "0.1.0",
+    "homepage": "https://github.com/yefremov/jquery-plugin",
+    "author": {
+        "name": "Anton Yefremov",
+        "email": "anton.yefremov@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/yefremov/jquery-plugin.git"
+    },
+    "bugs": {
+        "url": "https://github.com/yefremov/jquery-plugin/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "dependencies": {},
+    "devDependencies": {
+        "jshint": "0.9.1"
+    },
+    "keywords": [
+        "jquery",
+        "plugin",
+        "template"
+    ]
+}
