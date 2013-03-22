@@ -8,6 +8,6 @@ Replace any instance of word `plugin` with your actual plugin `name`.
 
 ## License
 
-Copyright (c) 2012 Anton Yefremov  
+Copyright (c) 2013 Anton Yefremov  
 Free to use and abuse under the MIT license.  
 [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
